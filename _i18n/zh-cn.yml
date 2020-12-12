@@ -95,11 +95,11 @@ download:
 buyfiro:
   heading: 买 Firo
   heading2: 获得 Firo 的方法之一是在其中一家交易所获得它。你将在下面找到支持 Firo 的交易所和币交换服务的列表。
-  ff: "Firo / 法币"
+  ff: "Firo / 法定货币"
   fc: "Firo / 加密货币"
   cs: "币交换服务"
   exchangeswith: 交易所
-  ffhead1: "Firo / 法币"
+  ffhead1: "Firo / 法定货币"
   pairing: 交易对
   fchead1: "Firo / 加密货币"
   csservice: 币交换服务
@@ -111,7 +111,7 @@ tech:
   academicpapers: 学术论文
   audits: 审核
   lelantus1: Lelantus 技术
-  lelantus2: Lelantus 是由 Firo 的 Aram Jivanyan 开发的下一代隐私协议。Lelantus 允许你燃烧你的硬币，这将它们隐藏在超过 65000 个匿名集中。接收者可以从该匿名池中将其赎回，从而断开你的交易以及之前通过的所有交易中的链接。
+  lelantus2: Lelantus 是由 Firo 的 Aram Jivanyan 开发的下一代隐私协议。Lelantus 允许你燃烧你的币，这将它们隐藏在超过 65000 个匿名集中。接收者可以从该匿名池中将其赎回，从而断开你的交易以及之前通过的所有交易中的链接。
   sigma1: Sigma 技术
   sigma2: 我们相信区块链的最终目的是建立不需要信任的系统，并且同样的原则也适用于我们的隐私系统本身。这就是为什么我们在 2018 年为 Zcoin 构建 Sigma 的原因。Sigma 使用 256 位 ECC 曲线，证明大小仅为 1.5 kB，是当时技术的 17 倍改进。Sigma 是 Lelantus 的先驱，为我们今天的地位奠定了许多垫脚石。
   dandelion1: Dandelion 技术
